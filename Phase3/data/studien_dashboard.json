@@ -1,0 +1,107 @@
+{
+  "student": {
+    "matrikelnummer": "IU14103178",
+    "vorname": "Marvin",
+    "nachname": "Fox",
+    "email": "marvin.fox@iu-study.org",
+    "einschreibedatum": "2025-07-30T23:31:43.219678"
+  },
+  "studiengang": {
+    "name": "Angewandte Künstliche Intelligenz",
+    "abschluss": "Bachelor of Science",
+    "regelstudienzeit": 6,
+    "gesamt_ects": 180,
+    "semester": [
+      {
+        "nummer": 1,
+        "bezeichnung": "Wintersemester 2024",
+        "startdatum": "2024-10-01",
+        "enddatum": "2025-02-28",
+        "geplante_ects": 30,
+        "module": [
+          {
+            "modulcode": "DLBDSOOFPP01",
+            "name": "Objektorientierte und funktionale Programmierung mit Python",
+            "ects_punkte": 5,
+            "beschreibung": "Einführung in OOP und funktionale Programmierung",
+            "dozent": "Prof. Dr. Schmidt",
+            "note": 1.7,
+            "datum": "2024-12-15",
+            "versuch": 1,
+            "typ": "Portfolio",
+            "pruefungsleistung": {
+              "typ": "Portfolio",
+              "note": 1.7,
+              "datum": "2024-12-15",
+              "versuch": 1,
+              "seitenzahl": 25
+            }
+          },
+          {
+            "modulcode": "DLBDSMATHF01",
+            "name": "Mathematik Grundlagen",
+            "ects_punkte": 5,
+            "beschreibung": "Grundlagen der Mathematik für Angewandte Künstliche Intelligenzer",
+            "dozent": "Prof. Dr. Müller",
+            "note": 2.0,
+            "datum": "2024-11-30",
+            "versuch": 1,
+            "typ": "Klausur",
+            "pruefungsleistung": {
+              "typ": "Klausur",
+              "note": 2.0,
+              "datum": "2024-11-30",
+              "versuch": 1,
+              "dauer_minuten": 120
+            }
+          },
+          {
+            "modulcode": "DLBDSEDE01",
+            "name": "Einführung in das wissenschaftliche Arbeiten",
+            "ects_punkte": 5,
+            "beschreibung": "Methoden des wissenschaftlichen Arbeitens",
+            "dozent": "Prof. Dr. Weber",
+            "note": 2.3,
+            "datum": "2025-01-20",
+            "versuch": 1,
+            "typ": "Portfolio",
+            "pruefungsleistung": {
+              "typ": "Portfolio",
+              "note": 2.3,
+              "datum": "2025-01-20",
+              "versuch": 1,
+              "seitenzahl": 15
+            }
+          }
+        ]
+      },
+      {
+        "nummer": 2,
+        "bezeichnung": "Sommersemester 2025",
+        "startdatum": "2025-04-01",
+        "enddatum": "2025-07-31",
+        "geplante_ects": 30,
+        "module": [
+          {
+            "modulcode": "DLBDSPROG01",
+            "name": "Programmierung",
+            "ects_punkte": 5,
+            "beschreibung": "Grundlagen der Programmierung",
+            "dozent": "Prof. Dr. Klein"
+          },
+          {
+            "modulcode": "DLBDSALGO01",
+            "name": "Algorithmen und Datenstrukturen",
+            "ects_punkte": 5,
+            "beschreibung": "Einführung in Algorithmen",
+            "dozent": "Prof. Dr. Groß",
+            "note": null,
+            "datum": null,
+            "versuch": 1,
+            "typ": ""
+          }
+        ]
+      }
+    ]
+  }
+}

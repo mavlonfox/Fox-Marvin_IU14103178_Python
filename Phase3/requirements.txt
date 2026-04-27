@@ -1,0 +1,11 @@
+# Studien-Dashboard - Requirements
+# Für Python 3.8+
+
+# GUI Framework (Teil der Python Standard Library)
+# tkinter - wird mit Python installiert
+
+# Hinweis: Dieses Projekt verwendet nur Python-Standardbibliotheken.
+# Keine externen Dependencies erforderlich.
+
+# Sollten Sie auf einem System ohne tkinter sein:
+# Linux: Nachinstallieren über die Paketverwaltung.
